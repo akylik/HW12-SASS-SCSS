@@ -123,12 +123,6 @@ body {
    .header_logo {
       flex-basis: 33%;
       text-align: center;
-      // a {
-      //    font-weight: 900;
-      //    font-size: 26px;
-      //    line-height: 38px;
-      //    color: #37447E;
-      // }
    }
    .header_button {
       flex-basis: 33%;
@@ -159,7 +153,6 @@ body {
 }
 
 .header_content {
-   // display: flex;
    max-width: 540px;
    margin-top: 250px;
    position: relative;
@@ -217,7 +210,6 @@ h2 {
    margin-bottom: 100px;
    display: flex;
    justify-content: space-between;
-   // align-items: center;
    .main1_content {
       flex-basis: 540px;
       flex-shrink: 1;
@@ -262,7 +254,6 @@ h2 {
 .wrapper2 {
    max-width: 1440px;
    width: 100%;
-   // min-height: 780px;
    margin: 0 auto;
    padding-left: 20px;
    padding-right: 20px;
